@@ -1,0 +1,78 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 599px;
+}
+
+.u-section-1 .u-form-1 {
+  height: 597px;
+  --thumb-color: #478ac9;
+  --thumb-hover-color: #77aad9;
+  --track-color: #c0c0c0;
+  --track-active-color: #478ac9;
+  --number-width: 555px;
+  width: 1141px;
+  margin: 2px 0 0;
+}
+
+.u-section-1 .u-input-1 {
+  height: 48px;
+}
+
+.u-section-1 .u-form-group-2 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-input-2 {
+  height: 48px;
+}
+
+.u-section-1 .u-form-group-3 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-input-3 {
+  height: 48px;
+}
+
+.u-section-1 .u-form-group-4 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-input-4 {
+  height: 48px;
+}
+
+.u-section-1 .u-form-group-5 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-input-5 {
+  height: 48px;
+}
+
+.u-section-1 .u-form-group-6 {
+  --progress: 0%;
+}
+
+.u-section-1 .u-input-6 {
+  height: 48px;
+}
+
+.u-section-1 .u-input-7 {
+  height: 48px;
+}
+
+.u-section-1 .u-btn-1 {
+  padding: 10px 103px 10px 101px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-form-1 {
+    width: 470px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-form-1 {
+    width: 340px;
+  }
+}
